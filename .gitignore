@@ -1,0 +1,11 @@
+# local environment and secrets
+.venv/
+.env
+*.env
+brand.json
+# Python
+__pycache__/
+*.pyc
+# per-user workspaces and outputs
+clips/
+*.log

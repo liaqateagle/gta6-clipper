@@ -1,0 +1,33 @@
+{
+  "_help": "Copy to brand.json. Every key below is read by clip.py (field > env CLIPPER_<KEY> > this file). Colours are hex without #. Booleans: true/false. watermark = text like @name OR a path to a PNG logo. watermark_pos: tl tr bl br bounce. position: auto top middle bottom. aspects: [] or any of 1:1, 4:5. lang: '' or es fr pt de ar hi. Keys starting with _ are ignored. theme: '' or a name from themes.json (clean learnwithliaqat neon bold-yellow minimal-white); look order theme < brand.json < pick fields. flip: true = stacked layouts put the cam BELOW the game.",
+  "style": "hormozi",
+  "font": "Anton-Regular",
+  "colors": {
+    "text": "FFFFFF",
+    "spoken": "22E584",
+    "outline": "0B1F17",
+    "key": "FFC83D",
+    "box": "12B76A"
+  },
+  "hook_text": "FFFFFF",
+  "hook_box": "0E7A4A",
+  "position": "auto",
+  "watermark": "@LearnWithLiaqat",
+  "watermark_color": "FFFFFF",
+  "watermark_pos": "tr",
+  "watermark_opacity": 0.85,
+  "watermark_size": 0.22,
+  "progress": true,
+  "progress_color": "22E584",
+  "endcard": "FOLLOW LEARN WITH LIAQAT",
+  "aspects": [],
+  "lang": "",
+  "fillers": true,
+  "emoji": false,
+  "denoise": true,
+  "blackfix": true,
+  "lift": true,
+  "flash": false,
+  "theme": "learnwithliaqat",
+  "flip": false
+}
