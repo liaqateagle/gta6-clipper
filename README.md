@@ -22,6 +22,13 @@
 
 <p align="center"><sub>Made by the app from one public GTA 6 stream by xQc (YouTube, 20 Nov 2026). Clips belong to their creators (see <a href="NOTICE.md">NOTICE</a>).</sub></p>
 
+<p align="center">
+  <a href="https://www.youtube.com/@LearnWithLiaqat?sub_confirmation=1"><b>▶ Subscribe to Learn With Liaqat</b></a> &nbsp;·&nbsp;
+  <a href="https://clipsonic.app/?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper"><b>✂ Clip any long video with ClipSonic</b></a>
+</p>
+
+<p align="center"><a href="https://clipsonic.app/?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-banner"><img src="docs/img/clipsonic.png" alt="ClipSonic: clip any long video into Shorts. Desktop AI clipper for Windows and Mac. Try it free." width="100%"></a></p>
+
 ---
 
 ## Install in one sentence
@@ -87,7 +94,7 @@ Start it any time with `python app.py <your workspace folder>` (it opens http://
 
 <table>
 <tr>
-<td width="50%"><img src="docs/img/home.png" alt="Home"><br><b>Home.</b> What needs review, what is approved, what the live hunt is watching.</td>
+<td width="50%"><img src="docs/img/home.png" alt="Home"><br><b>Home.</b> What needs review, what is approved, what the live hunt is watching, plus tutorials on the Learn With Liaqat channel.</td>
 <td width="50%"><img src="docs/img/shorts.png" alt="Shorts by day"><br><b>Shorts by day.</b> Every Short with a quality check (pass, warn, fail) and filters.</td>
 </tr>
 <tr>
@@ -167,10 +174,24 @@ Live hunt defaults to Free (no AI) with a cap on AI checks per hour. Your Claude
 
 **Does it work without an AI?** Yes, Free mode scores loudness, chat and keywords and renders automatically.
 
+## More from Learn With Liaqat
+
+**[ClipSonic](https://clipsonic.app/?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper): clip any long video, not just GTA.** This clipper is built for GTA 6 streams. ClipSonic is our desktop AI clipper for Windows and Mac that turns podcasts, streams, courses and vlogs into Shorts:
+
+- Smart, AI or fixed-length clip finding, with hook titles and post text for every clip
+- Auto framing for one, two or three people, re-framed on every camera cut
+- 29 animated caption presets with word-by-word highlighting
+- Live clipping of YouTube live streams
+- Runs on your own computer: no uploads, no watermark, no monthly fee
+
+[**Try ClipSonic free →**](https://clipsonic.app/?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper) 3-day free trial, no card.
+
+**[Learn With Liaqat on YouTube](https://www.youtube.com/@LearnWithLiaqat?sub_confirmation=1):** tutorials for this clipper, AI tools and creator workflows. [Subscribe](https://www.youtube.com/@LearnWithLiaqat?sub_confirmation=1) so you don't miss the next one.
+
 ## License
 
 MIT, see LICENSE. Bundled fonts keep their own OFL licenses (`fonts/`); models are listed in `models/NOTICES.txt`.
 
 ## Credits
 
-Learn With Liaqat edition for [Learn With Liaqat](https://www.youtube.com/@LearnWithLiaqat). Based on gta6-clipper by [NoCodeHack](https://www.youtube.com/@nocodehack) (MIT), built with Claude Code. Uses ffmpeg, faster-whisper, yt-dlp, streamlink, OpenCV and MediaPipe. Streamers in the images are credited on the clips they appear in. Fan-made, not affiliated with Rockstar Games, Take-Two or any streamer.
+Made by [Learn With Liaqat](https://www.youtube.com/@LearnWithLiaqat), built with Claude Code. Uses ffmpeg, faster-whisper, yt-dlp, streamlink, OpenCV and MediaPipe. Streamers in the images are credited on the clips they appear in. Fan-made, not affiliated with Rockstar Games, Take-Two or any streamer.

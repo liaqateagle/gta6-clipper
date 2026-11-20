@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to liaqat-gta6-clipper (Learn With Liaqat edition, based on gta6-clipper by NoCodeHack). Newest first.
+All notable changes to liaqat-gta6-clipper by Learn With Liaqat. Newest first.
 
 ## 1.0.13
 ### Added
